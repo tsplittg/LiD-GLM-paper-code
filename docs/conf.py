@@ -7,8 +7,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u"lidglm"
-copyright = u"2026, Tom Splittgerber"
-author = u"Tom Splittgerber"
+
 
 # -- General configuration ---------------------------------------------------
 
