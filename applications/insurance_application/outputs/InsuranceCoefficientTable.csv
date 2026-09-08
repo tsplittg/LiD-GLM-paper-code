@@ -1,0 +1,10 @@
+,LM,LiD-GLM,LiD-GLM with PHO,1-dim R-sq.
+bias,-1.23,-1.21,-1.45,
+age,0.31,1.46,0.31,0.97
+sex,-0.0,0.03,0.01,1.0
+bmi,0.03,0.08,0.03,1.0
+children,0.05,0.09,0.05,1.0
+smoker,1.95,2.9,1.82,0.92
+region_northwest,-0.07,-0.36,-0.02,0.77
+region_southeast,-0.13,-0.48,-0.05,0.92
+region_southwest,-0.09,-0.44,-0.04,0.9

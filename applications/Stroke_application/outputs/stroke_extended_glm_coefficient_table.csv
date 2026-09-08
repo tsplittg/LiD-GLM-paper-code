@@ -1,0 +1,11 @@
+,LM,LiD-GLM,LiD-GLM with PHO,1-dim R-sq.
+intercept,-1.0,-1.0,-1.28,
+sex,-0.41,-0.41,-0.53,0.97
+age,0.09,0.09,0.15,1.0
+hypertension,1.23,1.23,1.44,0.8
+heart_disease,1.13,1.13,1.5,0.79
+ever_married,0.87,0.87,1.12,0.89
+Residence_type,0.13,0.13,0.25,0.99
+avg_glucose_level,0.42,0.42,0.45,0.99
+bmi,-0.16,-0.16,-0.24,1.0
+smoking_status,0.13,0.13,0.08,0.94

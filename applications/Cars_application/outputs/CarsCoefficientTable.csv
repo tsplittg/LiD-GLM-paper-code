@@ -1,0 +1,8 @@
+,LM,LiD-GLM,LiD-GLM with PHO,1-dim R-sq.
+bias,22.51,22.37,22.39,
+cylinders,-2.46,-2.5,-3.0,0.99
+horsepower,-3.29,-3.48,-2.49,0.97
+acceleration,-1.41,-1.41,-1.31,0.99
+model_year,2.47,2.63,2.57,0.99
+origin_2,2.13,1.99,2.77,0.96
+origin_3,4.24,4.15,4.82,0.94

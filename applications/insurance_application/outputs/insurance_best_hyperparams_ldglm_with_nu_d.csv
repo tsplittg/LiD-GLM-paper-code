@@ -1,0 +1,6 @@
+,family,link,lipschitz_const,norm,lr,epochs,width,depth,loss_crits,part_to_train,num_blocks,activation,lipschitz_const_2,width_2,depth_2,num_blocks_2,activation_2,num_batches,model_type
+0,gaussian,identity,1.625,2,0.001,3000,18,2,log_like,full,1,relu,3.99,6,3,2,swish,1,ldglm
+1,gaussian,identity,2.0,2,0.001,3000,18,3,log_like,full,1,relu,3.99,6,3,2,swish,1,ldglm
+2,gaussian,identity,1.625,2,0.001,3000,9,3,log_like,full,1,relu,3.99,6,3,2,swish,1,ldglm
+3,gaussian,identity,1.875,2,0.001,3000,9,3,log_like,full,1,relu,3.99,16,3,2,swish,1,ldglm
+4,gaussian,identity,1.625,2,0.001,3000,9,2,log_like,full,1,relu,3.99,6,3,2,swish,1,ldglm
