@@ -2,7 +2,7 @@
 name = "lidglm"
 version = "0.1.0"
 description = "A compromise between generalized linear models and unconstrained neural networks."
-authors = ["Tom Splittgerber"]
+authors = ["Anonymous"]
 license = "MIT"
 readme = "README.md"
 
