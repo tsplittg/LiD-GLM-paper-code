@@ -1,6 +1,6 @@
 # lidglm
 
-A compromise between generalized linear models and unconstrained neural networks.
+A compromise between generalized linear models and unconstrained neural networks. Code for the paper "LiD-GLM: Lipschitz-constrained Deep Generalized Linear Models" (https://arxiv.org/abs/2608.16340)
 
 ## Installation
 
