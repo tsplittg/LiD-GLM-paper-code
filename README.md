@@ -46,7 +46,7 @@ The ***PHO_linear_plots*** script reads these results and creates a correspondin
 
 ## License
 
-`lidglm` was created by Tom Splittgerber. It is licensed under the terms of the MIT license.
+`lidglm` was created by Tom Splittgerber, except for code fragments where other authors are explicitly credited. With the exception of these code fragments, lidglm is licensed under the terms of the MIT license.
 
 ## Credits
 
